@@ -1,0 +1,19 @@
+Bibliotecas utilizadas
+
+Vite com Typescrit
+Tailwind
+phosphor-react 
+
+Melhoria de codigo
+> Componentes
+
+Construção Modal
+Radix 
+    $npm install @radix-ui/react-dialog
+    npm install @radix-ui/react-checkbox
+
+Melhorias
+Reponsivo
+Keen-Slider
+Radix Componentes Selects 
+react hook form
